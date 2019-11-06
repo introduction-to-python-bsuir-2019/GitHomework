@@ -1,3 +1,7 @@
 #!/usr/bin/python3
 
-print('Hello brave new world')
+n = input('please enter your name: ')
+print(n)
+print('Hello brave new', n)
+print('How is the weather today?')
+
